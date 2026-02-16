@@ -1,0 +1,40 @@
+{
+  "strains": [
+    {
+      "name_zh": "乳酸杆菌植物乳杆菌 LP45 (科拓)",
+      "name_en": "Lactobacillus plantarum LP45 (KeTuo)",
+      "benefits_zh": ["EPS结构", "去除豆腥", "果香甜味"],
+      "benefits_en": ["EPS texture", "reduce beany", "fruity sweet"],
+      "uk_sup": "科拓生物 UK代理"
+    },
+    {
+      "name_zh": "发酵乳杆菌 LF (科拓)",
+      "name_en": "Lactobacillus fermentum LF (KeTuo)",
+      "benefits_zh": ["去除豆腥", "甜味生成", "触变性"],
+      "benefits_en": ["reduce beany", "sweet notes", "thixotropy"],
+      "uk_sup": "科拓生物"
+    }
+  ],
+  "structure_params": {
+    "soft_zh": {
+      "yield_stress": "15-30 Pa (Bingham, JOR)",
+      "syneresis": "分水率<10%",
+      "viscosity": "粘度0.8-1.5 Pa·s",
+      "adj": "EPS菌 + 0.3%淀粉"
+    },
+    "soft_en": {
+      "yield_stress": "15-30 Pa (Bingham, JOR)",
+      "syneresis": "Syneresis <10%",
+      "viscosity": "Viscosity 0.8-1.5 Pa·s",
+      "adj": "EPS strains + 0.3% starch"
+    }
+  },
+  "suppliers": {
+    "proteins_zh": "大豆分离蛋白 (Lehmann Ingredients UK)",
+    "proteins_en": "Soy Protein Isolate (Lehmann Ingredients UK)",
+    "sweeteners_zh": "僧侣果 + 甜叶菊 (Tate & Lyle UK)",
+    "sweeteners_en": "Monk Fruit + Stevia (Tate & Lyle UK)",
+    "stabilizers_zh": "CLARIA Bliss木薯淀粉 (Tate & Lyle UK)",
+    "stabilizers_en": "CLARIA Bliss Tapioca Starch (Tate & Lyle UK)"
+  }
+}
